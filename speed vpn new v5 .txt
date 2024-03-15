@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"برنامه هیچ مشکلی ندارد و پیام نسخه غیر امن بودن برنامه توسط خود سازنده امده هست از همین نسخه با خیال راحت استفاده کنید ❤️","dismissable":false,"dismissTxt":"رد","okTxt":"تایید ","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+.
